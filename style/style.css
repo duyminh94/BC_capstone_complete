@@ -1530,6 +1530,7 @@ header .overlay ul li {
     opacity: 1;
     text-align: center;
     visibility: hidden;
+    z-index: 1;
 
 }
 
